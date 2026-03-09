@@ -1,0 +1,128 @@
+{
+  "country:name:america": {
+    "ts": 1772998318.8474274,
+    "value": {
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "population": 49710,
+      "region": "Oceania",
+      "continent": "Oceania",
+      "languages": [
+        "English",
+        "Samoan"
+      ],
+      "currencies": [
+        "United States dollar ($)"
+      ],
+      "flag_url": "https://flagcdn.com/w320/as.png",
+      "country_code": "AS",
+      "maps_url": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6"
+    }
+  },
+  "weather:city:pago pago": {
+    "ts": 1772998319.8213937,
+    "value": {
+      "city": "Pago Pago",
+      "country_code": "AS",
+      "temperature_c": 27.99,
+      "condition": "Clouds",
+      "humidity": 76,
+      "wind_speed": 6.7,
+      "icon_code": "04d"
+    }
+  },
+  "weather:city:tokyo": {
+    "ts": 1772998744.9962049,
+    "value": {
+      "city": "Tokyo",
+      "country_code": "JP",
+      "temperature_c": 5.42,
+      "condition": "Clouds",
+      "humidity": 34,
+      "wind_speed": 4.45,
+      "icon_code": "04n"
+    }
+  },
+  "country:code:jp": {
+    "ts": 1772998745.2868917,
+    "value": {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 123210000,
+      "region": "Asia",
+      "continent": "Asia",
+      "languages": [
+        "Japanese"
+      ],
+      "currencies": [
+        "Japanese yen (¥)"
+      ],
+      "flag_url": "https://flagcdn.com/w320/jp.png",
+      "country_code": "JP",
+      "maps_url": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9"
+    }
+  },
+  "country:name:france": {
+    "ts": 1772998847.2888374,
+    "value": {
+      "name": "France",
+      "capital": "Paris",
+      "population": 66351959,
+      "region": "Europe",
+      "continent": "Europe",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        "euro (€)"
+      ],
+      "flag_url": "https://flagcdn.com/w320/fr.png",
+      "country_code": "FR",
+      "maps_url": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7"
+    }
+  },
+  "weather:city:paris": {
+    "ts": 1772998848.3154285,
+    "value": {
+      "city": "Paris",
+      "country_code": "FR",
+      "temperature_c": 12.29,
+      "condition": "Clear",
+      "humidity": 59,
+      "wind_speed": 1.52,
+      "icon_code": "01n"
+    }
+  },
+  "country:name:uzbekistan": {
+    "ts": 1773039916.4564748,
+    "value": {
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "population": 37859698,
+      "region": "Asia",
+      "continent": "Asia",
+      "languages": [
+        "Russian",
+        "Uzbek"
+      ],
+      "currencies": [
+        "Uzbekistani soʻm (so'm)"
+      ],
+      "flag_url": "https://flagcdn.com/w320/uz.png",
+      "country_code": "UZ",
+      "maps_url": "https://goo.gl/maps/AJpo6MjMx23qSWCz8"
+    }
+  },
+  "weather:city:tashkent": {
+    "ts": 1773039917.476811,
+    "value": {
+      "city": "Tashkent",
+      "country_code": "UZ",
+      "temperature_c": 16.4,
+      "condition": "Clouds",
+      "humidity": 45,
+      "wind_speed": 3.74,
+      "icon_code": "04d"
+    }
+  }
+}
